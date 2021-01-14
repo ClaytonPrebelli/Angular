@@ -1,0 +1,24 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json -- port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaytonPrebelli/Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaytonPrebelli/Angular/issues"
+  },
+  "homepage": "https://github.com/ClaytonPrebelli/Angular#readme",
+  "dependencies": {
+    "@angular/cli": "^11.0.7",
+    "json-server": "^0.16.3"
+  }
+}
