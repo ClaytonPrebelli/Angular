@@ -1,4 +1,4 @@
-import { ProdutcCreateComponent } from './components/product/produtc-create/produtc-create.component';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './views/home/home.component'
@@ -13,7 +13,7 @@ const routes: Routes = [
 },
 {
   path: "products/create",
-  component: ProdutcCreateComponent
+  component: ProductCreateComponent
 },
 ];
 
