@@ -1,5 +1,5 @@
 {
-  "produtos": [
+  "products": [
     {
       "id": 1,
       "name": "Notebook",
@@ -14,6 +14,26 @@
       "id": 3,
       "name": "Tablet",
       "price": 900
+    },
+    {
+      "name": "Serra Elétrica",
+      "price": 50,
+      "id": 4
+    },
+    {
+      "name": "Pistola",
+      "price": 50,
+      "id": 5
+    },
+    {
+      "name": "ideapad",
+      "price": 50,
+      "id": 6
+    },
+    {
+      "name": "CLAYTON PREBELLI PIRES",
+      "price": "50.55",
+      "id": 7
     }
   ]
 }
