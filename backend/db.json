@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "name": "Tablet",
+      "name": "Tablet samsung",
       "price": 900
     },
     {
@@ -34,6 +34,26 @@
       "name": "CLAYTON PREBELLI PIRES",
       "price": "50.55",
       "id": 7
+    },
+    {
+      "name": "Revolver",
+      "price": "50,88",
+      "id": 8
+    },
+    {
+      "name": "Aeg",
+      "price": "1000.99",
+      "id": 9
+    },
+    {
+      "name": "Teste",
+      "price": 50,
+      "id": 10
+    },
+    {
+      "name": "Tata",
+      "price": "2500000.99",
+      "id": 11
     }
   ]
 }

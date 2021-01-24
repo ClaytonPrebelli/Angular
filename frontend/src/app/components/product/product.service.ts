@@ -9,7 +9,8 @@ import { Observable } from 'rxjs';
 }) 
 export class ProductService {
 
-    baseUrl = "http://localhost:3000/products"
+   //baseUrl = "http://crudcrud.com/api/prebelli"
+   baseUrl = "http://localhost:3000/products"
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) { }
 
