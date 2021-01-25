@@ -4,6 +4,9 @@
     text-decoration: none;
     color: black;
     }
+    .header a {
+        color: #000;
+    }
 .header span a{
     display: flex;
     align-items: center;
